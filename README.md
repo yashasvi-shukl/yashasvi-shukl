@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yashasvi Shukla
-- 👀 Interested in ...
-- 🌱 I’m currently learning Transformers
-- 💞️ I’m looking to collaborate on ...
+- 👀 Interested in Traveling and meeting new peoples
+- 🌱 Currently learning Transformers
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/yashasvi--shukla)
 
 <!---
