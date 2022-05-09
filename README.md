@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashasvi Shukla
-- 👀 Interested in Traveling and meeting new peoples
+- 👀 Interested in Traveling and collaborating in new tasks
 - 🌱 Currently learning Transformers
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/yashasvi--shukla)
 
