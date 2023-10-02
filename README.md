@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yashasvi Shukla
 - 👀 Interested in Traveling and collaborating in new tasks
-- 🌱 Currently learning Transformers
+- 🌱 NLP Expert
+- Working on GenAI
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/yashasvi--shukla)
 
 <!---
