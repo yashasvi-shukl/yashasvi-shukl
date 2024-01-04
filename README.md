@@ -1,19 +1,19 @@
 # NLP & GenAI Engineer | Data Scientist | Machine Learning Enthusiast
 </br>
-Welcome to my GitHub repository! I am an experienced Data Scientist with a strong track record of delivering impactful insights and solutions through data-driven approaches. With over 4.6 years of hands-on experience in the field, I have successfully applied advanced Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI techniques to address complex business problems.
+Welcome to my GitHub repository! I am an experienced Data Scientist with a strong track record of delivering impactful insights and solutions through data-driven approaches. With over 4.6 years of hands-on experience in the field, I have successfully applied advanced **Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI** techniques to address complex business problems.
 </br></br>
 
 ## About Me
 - 💼 Currently a seasoned Data Scientist and NLP Specialist
 - 🚀 Over 4.6 years of practical experience
-- 🔧 Proficient in Langchain, OpenAI, Hugging Face, SciKit-Learn, TensorFlow, and AWS services (S3, Sagemaker, Athena)
-- 🧠 Expertise in machine learning and deep learning algorithms, including Transformers and Large Language Models like ChatGPT, LLAMA, PaLM, BERT, GPT, RoBERTa, and more
+- 🔧 Proficient in **Langchain, OpenAI, Hugging Face, SciKit-Learn, TensorFlow, PyTorch and AWS services**
+- 🧠 Expertise in **machine learning and deep learning algorithms, including Transformers and Large Language Models like ChatGPT, LLAMA, PaLM, BERT, GPT, RoBERTa, and more**
 </br></br>
 
 # Technical Skills
-- 🤖 Machine Learning Frameworks: Langchain, OpenAI, Hugging Face, SciKit-Learn, TensorFlow
-- ☁️ Cloud Services: AWS (S3, Sagemaker, Athena)
-- 📈 Specializations: Generative AI, Explainable AI, NLP, Deep Learning, Machine Learning, Data Visualization, Data Cleaning & Analysis, Feature Engineering, Model Training, Clustering, Time Series, Anomaly - Detection and more.
+- 🤖 **Machine Learning Frameworks:** Langchain, OpenAI, Hugging Face, SciKit-Learn, TensorFlow
+- ☁️ **Cloud Services:** AWS 
+- 📈 **Specializations: Generative AI, Explainable AI, NLP, Deep Learning, Machine Learning, Data Visualization, Data Cleaning & Analysis, Feature Engineering, Model Training, Clustering, Time Series, Anomaly - Detection and more.**
 </br></br>
 # Professional Experience
 In my most recent role as a Senior Data Scientist at Wipro:
