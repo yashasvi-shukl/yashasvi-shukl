@@ -1,11 +1,11 @@
 # NLP & GenAI Engineer | Data Scientist | Machine Learning Enthusiast
 </br>
-Welcome to my GitHub repository! I am an experienced Data Scientist with a strong track record of delivering impactful insights and solutions through data-driven approaches. With over 4.6 years of hands-on experience in the field of Data Science and AI, I have successfully applied advanced <b>Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI</b> techniques to address complex business problems.
+Welcome to my GitHub repository! I am an experienced AI Engineer with a strong track record of delivering impactful insights and solutions through data-driven approaches. With over 5 years of hands-on experience in the field of Data Science and AI, I have successfully applied advanced <b>Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI</b> techniques to address complex business problems.
 </br></br>
 
 ## About Me
 - 💼 Currently a seasoned Data Scientist and NLP Specialist
-- 🚀 Over 4.6 years of practical experience
+- 🚀 Over 5 years of practical experience
 - 🔧 Proficient in **Langchain, OpenAI, Hugging Face, SciKit-Learn, TensorFlow, PyTorch and AWS services**
 - 🧠 Expertise in **machine learning and deep learning algorithms, including Transformers and Large Language Models like ChatGPT, LLAMA, PaLM, BERT, GPT, RoBERTa, and more**
 </br></br>
